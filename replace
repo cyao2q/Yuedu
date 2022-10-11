@@ -110,19 +110,5 @@
         "scopeContent":true,
         "scopeTitle":false,
         "timeoutMillisecond":3000
-    },
-    {
-        "group":"",
-        "id":1662719335272,
-        "isEnabled":true,
-        "isRegex":true,
-        "name":"《广告书名》",
-        "order":65,
-        "pattern":"《.*》",
-        "replacement":"",
-        "scope":"",
-        "scopeContent":true,
-        "scopeTitle":false,
-        "timeoutMillisecond":3000
     }
 ]
