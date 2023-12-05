@@ -9,6 +9,8 @@
 ![image](https://user-images.githubusercontent.com/10820724/185269283-0bb00b73-d247-4aae-9566-f5d74d6f10bf.png)
 
 ### 阅读 - 源仓库
+<https://www.yckceo.com/yuedu/shuyuan/index.html>
+
 <https://www.yckceo.com/yuedu/shuyuans/index.html>
 
 # 阅读APP下载
