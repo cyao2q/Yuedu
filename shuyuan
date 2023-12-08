@@ -160,7 +160,7 @@
   {
     "bookSourceComment": "",
     "bookSourceGroup": "精品书源",
-    "bookSourceName": "✈ 69书吧 cf",
+    "bookSourceName": "✈ 69书吧cf",
     "bookSourceType": 0.0,
     "bookSourceUrl": "https://69shuba.cyao.eu.org",
     "bookUrlPattern": "",
@@ -326,7 +326,7 @@
     "enabledExplore": true,
     "exploreUrl": "",
     "header": "",
-    "lastUpdateTime": 1.70175327617E12,
+    "lastUpdateTime": 1.701784794538E12,
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
@@ -356,7 +356,7 @@
       "chapterList": "class.chapter@tag.li",
       "chapterName": "tag.a@text",
       "chapterUrl": "tag.a@href",
-      "nextTocUrl": "text.下一页@href"
+      "nextTocUrl": "text.下页@href"
     },
     "searchUrl": "http://m.uuxs8.cc/search?wd={{key}}&page={{page}}",
     "weight": 0.0
