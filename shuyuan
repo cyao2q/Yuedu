@@ -170,7 +170,7 @@
     "enabledExplore": false,
     "exploreUrl": "",
     "header": "",
-    "lastUpdateTime": 1.701652893618E12,
+    "lastUpdateTime": 1.705161897358E12,
     "loginCheckJs": "",
     "loginUi": "",
     "loginUrl": "",
@@ -192,7 +192,7 @@
     "ruleSearch": {
       "author": "tag.label.0@text",
       "bookList": "@css:.newbox>ul>li,body>li",
-      "bookUrl": "class.imgbox.0@href##https://www.69shuba.com##https://69shuba.cyao.eu.org",
+      "bookUrl": "class.imgbox.0@href##https://www.69xinshu.com##https://69shuba.cyao.eu.org",
       "coverUrl": "tag.img.0@src",
       "intro": "class.ellipsis_2.0@text",
       "kind": "tag.label.1@text",
@@ -202,7 +202,7 @@
     "ruleToc": {
       "chapterList": "id.catalog.0@tag.a",
       "chapterName": "text",
-      "chapterUrl": "href##https://www.69shuba.com##https://69shuba.cyao.eu.org"
+      "chapterUrl": "href##https://www.69xinshu.com##https://69shuba.cyao.eu.org"
     },
     "searchUrl": "/modules/article/search.php,{'charset':'gbk','body':'searchkey={{key}}&searchtype=all','method':'POST'}",
     "weight": 0.0
@@ -212,14 +212,14 @@
     "bookSourceGroup": "精品书源",
     "bookSourceName": "✈ 69书吧",
     "bookSourceType": 0.0,
-    "bookSourceUrl": "https://www.69shuba.com",
+    "bookSourceUrl": "https://www.69xinshu.com",
     "bookUrlPattern": "",
     "customOrder": 5,
     "enabled": true,
     "enabledExplore": false,
     "exploreUrl": "",
     "header": "",
-    "lastUpdateTime": 1.698104930651E12,
+    "lastUpdateTime": 1.705161833871E12,
     "loginUi": "",
     "loginUrl": "",
     "respondTime": 182179.0,
