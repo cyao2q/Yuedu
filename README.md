@@ -2,7 +2,7 @@
 
 ### 导入链接
 
-<https://cyao.eu.org/yuedu/shuyuan>
+<https://cyao2q.github.io/yuedu/shuyuan>
 
 <https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/yuedu/master/shuyuan>
 
